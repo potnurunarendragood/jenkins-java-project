@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=11.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=12.0" />
     <title>Netflix WELCOME Page | CodingNepal</title>
     <link rel="stylesheet" href="style.css" />
   </head>
